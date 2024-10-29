@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1702226480 source:d:\dic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"taddic.h"
+
+1702227733 d:\dic\taddic.h
+	"tadlista.h"
+
+1702227738 d:\dic\tadlista.h
+
